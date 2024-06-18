@@ -1,0 +1,10 @@
+name
+location
+marketCap
+sharePrice
+category
+foundationYear
+employees
+telephone
+ceo
+website
