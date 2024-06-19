@@ -1,0 +1,17 @@
+{
+    "avengers-hitHorizons": "[hhid: no matching, id: no matching, nation: no matching, sic_code: no matching, type: category, address: location, est_of_ownership: foundationYear, industry: category, name: name]",
+    "DeBiGa-globaldata": "[address: location, headquarters: location, industry: category, market_cap: marketCap, name: name, number_of_employees: employees, revenue: no matching, telephone: telephone, website: location]",
+    "FR-ft": "[Absolute Growth Rate %: no matching, Compound Annual Growth Rate (CAGR) %: no matching, Country: no matching, Founding Year: foundationYear, in 2020 ranking: no matching, in 2021 ranking: no matching, Name: name, Number of employees 2017: employees, Number of employees 2020: employees, Rank: no matching, Revenue 2017 (€): no matching, Revenue 2020 (€): no matching, Sector: category]",
+    "FR-sole24ore": "[7.337: no matching, Address: location, Category: category, Country: no matching, Name: name]",
+    "GioPonSpiz-companiesMarketCap": "[codice: no matching, country: country, name: name, price: no matching, pricecap: marketCap]",
+    "gren-companiesMarketCap": "[country: no matching, market_capitalization_USD: marketCap, name: name, price: marketCap]",
+    "MalPatSaj-disfold": "[Country: no matching, Industry: category, MarketCap: marketCap, Name: location, Sector: category, Stock: no matching]",
+    "MalPatSaj-forbes": "[Assets: no matching, Country: no matching, Market Value: marketCap, Name: name, Profit: no matching, Sales: no matching]",
+    "MarScoToc-wikipedia": "[Area Served: no matching, Founded: foundationYear, headQuarters: location, Industry: category, Name: name]",
+    "silvestri-disfold": "[country: no matching, market_value_apr_2022: marketCap, name: name, sector: category, stock: no matching]",
+    "silvestri-forbes": "[country: no matching, market_value_apr_2022: marketCap, name: name, revenue_2022: no matching]",
+    "silvestri-ft": "[country: no matching, employees_2017: employees, employees_2020: employees, founding_year: foundationYear, name: name, revenue_2017: no matching, revenue_2020: no matching, sector: category]",
+    "silvestri-valueToday": "[ceo: ceo, country: no matching, employees_2022: employees, market_value_jan_2020: no matching, market_value_jan_2021: no matching, market_value_jan_2022: no matching, name: name, revenue_2022: no matching, sector: category]",
+    "slytherin-disfold": "[ceo: ceo, employees: employees, headquarters: location, link: website, market_cap: marketCap, name: name]",
+    "slytherin-valueToday": "[ceo: ceo, country: location, founded: foundationYear, industry: category, link: website, name: name, rank: no matching, revenue: no matching]"
+}
